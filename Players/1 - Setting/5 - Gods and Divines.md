@@ -11,11 +11,15 @@ Since Aiti is too powerful, The Life is dead, and The Land is lost, clerics and 
 ## P'thael
 
 **Alignment**: Chaotic Good
+
 **Domain**: Nature
+
 **Great Work**: Created The Mother Forest, a huge, evergreen forest, resilient to almost every form of damage, taking up most of the central continent.
 
-## 
+## Name not specified yet
 
 **Alignment**: Neutral Good
+
 **Domain**: Nature
+
 **Great Work**: Grew the Greatmother Tree, which formed the town of Canopy. This extended the Mother Forest, and created two enclaves, one for the druids, and one for the Children of Life. The Life, while they lived, lived in the Greatmother Tree.
