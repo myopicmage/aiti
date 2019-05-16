@@ -23,3 +23,11 @@ Since Aiti is too powerful, The Life is dead, and The Land is lost, clerics and 
 **Domain**: Nature
 
 **Great Work**: Grew the Greatmother Tree, which formed the town of Canopy. This extended the Mother Forest, and created two enclaves, one for the druids, and one for the Children of Life. The Life, while they lived, lived in the Greatmother Tree.
+
+## Hrodwyn, Shaper of the Land
+
+**Alignment**: Lawful Neutral
+
+**Domain**: Diplomacy
+
+**Great Work**: Prevented a budding war between Delta and Sun's Reach by creating The Chasm, a once-valley, now massive river, preventing the armies from crossing.
