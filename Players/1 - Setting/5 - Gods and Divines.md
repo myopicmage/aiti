@@ -31,3 +31,27 @@ Since Aiti is too powerful, The Life is dead, and The Land is lost, clerics and 
 **Domain**: Diplomacy
 
 **Great Work**: Prevented a budding war between Delta and Sun's Reach by creating The Chasm, a once-valley, now massive river, preventing the armies from crossing.
+
+## Levotta, Goddess of Fear
+
+**Alignment**: Chaotic Evil
+
+**Domain**: Shadow
+
+**Great Work**: Created the concept of fear and shared it with the world of Aiti, just because she could.
+
+## Frances. the Death Guide
+
+**Alignment**: Lawful Neutral
+
+**Domain**: Death
+
+**Great Work**: One of the first of the Great Mages, Frances found out that those who died were left to rot, so she demanded that she be allowed to fix it. She went to The Life, made her case, and Aiti granted her power. She then created the two planes of death: a heaven-like plane thst most mortals will go to, and a plane of rehabilitation, explicitly meant to teach mortals the errors of their ways upon death so they can go to the proper afterlife. She also serves as a grim reaper-like guide, taking souls to their proper resting place.
+
+## Haneul, Patron of Skymeet
+
+**Alignment**: Lawful Good
+
+**Domain**: Knowledge
+
+**Great Work**: Afer seeing the city of Skymeet becoming overcowded, created and permanently raised a second tier to the city to float above the city for all time. Also did a great deal of research at THe Academy, contributing heavily to the understanding of magic on Aiti.
