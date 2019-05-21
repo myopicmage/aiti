@@ -38,7 +38,7 @@ The first human had been born.
 
 Aiti was thrilled, and asked for more. These were beings who could think and feel just like The Life and The Land and Aiti herself, but they were small and disconnected from the elder god. Carefully, The Life gave a bit of themselves to each human, so they, too, could wield the power of Aiti, albeit in a much weaker form. 
 
-Initially, The Land agreed to give some of their power to the humans as well, forming an equal partnership. Half of the humans would draw from The Life, and half from The Land. Balance was found, and the humans thrived. Aiti, her childre, and her children's children were happy. 
+Initially, The Land agreed to give some of their power to the humans as well, forming an equal partnership. Half of the humans would draw from The Life, and half from The Land. Balance was found, and the humans thrived. Aiti, her children, and her children's children were happy. 
 
 ### The Other Unrealized
 
