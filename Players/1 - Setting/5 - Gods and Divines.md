@@ -50,7 +50,7 @@ Since the death of The Life, Vyr has been spotted fairly frequently in the bough
 
 **Domain**: Death
 
-**Great Work**: One of the first of the Great Mages, Frances found out that those who died were left to rot, so she demanded that she be allowed to fix it. She went to The Life, made her case, and Aiti granted her power. She then created the two planes of death: a heaven-like plane thst most mortals will go to, and a plane of rehabilitation, explicitly meant to teach mortals the errors of their ways upon death so they can go to the proper afterlife. She also serves as a grim reaper-like guide, taking souls to their proper resting place.
+**Great Work**: One of the first of the Great Mages, Frances found out that those who died were left to rot, so she demanded that she be allowed to fix it. She went to The Life, made her case, and Aiti granted her power. She then created the two planes of death: a heaven-like plane that most mortals will go to, and a plane of rehabilitation, explicitly meant to teach mortals the errors of their ways upon death so they can go to the proper afterlife. She also serves as a grim reaper-like guide, taking souls to their proper resting place.
 
 ## Haneul, Patron of Skymeet
 
@@ -58,7 +58,7 @@ Since the death of The Life, Vyr has been spotted fairly frequently in the bough
 
 **Domain**: Knowledge
 
-**Great Work**: Afer seeing the city of Skymeet becoming overcowded, created and permanently raised a second tier to the city to float above the city for all time. Also did a great deal of research at THe Academy, contributing heavily to the understanding of magic on Aiti.
+**Great Work**: After seeing the city of Skymeet becoming overcrowded, created and permanently raised a second tier to the city to float above the city for all time. Also did a great deal of research at THe Academy, contributing heavily to the understanding of magic on Aiti.
 
 ## Aurinko, Bringer of Light
 

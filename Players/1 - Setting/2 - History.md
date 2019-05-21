@@ -10,7 +10,7 @@ Aiti was once an Unrealized, a denizen of the plane called Piileva. Not quite ch
 
 ### Aiti
 
-Aiti was a special Unrealized. Through some fluke, either luck, or some divine spark, or just a little bit of chaos, Aiti realised that she had potential. She decided that she wanted to be. And with that tiny thought, she _became_. Where once there was twilight darkness, now there was a massive planet, the first true entity of this new material plane. 
+Aiti was a special Unrealized. Through some fluke, either luck, or some divine spark, or just a little bit of chaos, Aiti realized that she had potential. She decided that she wanted to be. And with that tiny thought, she _became_. Where once there was twilight darkness, now there was a massive planet, the first true entity of this new material plane. 
 
 Other Unrealized quickly (though it was difficult to know, as time had not truly begun) followed suit, becoming stars and planets of their own. A slow wave of existence spread through Piileva, and a new plane was born.
 
@@ -42,7 +42,7 @@ Initially, The Land agreed to give some of their power to the humans as well, fo
 
 ### The Other Unrealized
 
-Aiti was special, not just because she was the first of the Unrealized to will herself into existence, but also because she was one of the few Unrealized who had the strength of will to _maintain_ her existence. Over time, many Unrealized blinked in and out of existence, most of them never progressing past the initial stage of being born as a planet or a star. A few of them became strange, misshappen creatures, unable to exist in Piileva, and so they retreated to other planes. It is said that some of them became fiends.
+Aiti was special, not just because she was the first of the Unrealized to will herself into existence, but also because she was one of the few Unrealized who had the strength of will to _maintain_ her existence. Over time, many Unrealized blinked in and out of existence, most of them never progressing past the initial stage of being born as a planet or a star. A few of them became strange, misshapen creatures, unable to exist in Piileva, and so they retreated to other planes. It is said that some of them became fiends.
 
 Some of the Unrealized chose to use their will to exist, but in a different fashion. They became creatures of light, and ascended to the divine realms to watch over their former brethren. 
 
@@ -72,4 +72,4 @@ Aiti decreed that The Land would be forgotten, and tried to praise The Life for 
 
 Without The Land to constantly reshape the face of Aiti, the world became a calmer place. The Life proved a very capable guiding hand, making sure that the mortals could live their lives, and govern themselves, but also preventing any major conflicts that might have turned into anything resembling a war. Aiti and her people prospered.
 
-Aiti, however, grew lonely, and a little bit bored. She was unable to communicate directly with any mortal, and having only The Life to talk to could grow uninteresting, especially if The Life was busy with mortal affairs. So she began to choose random mortals, and give them direct connections to her power. They gained the ability to talk to her, and to wield god-like powers, nearly as powerful as The Life. These mortals were few and far between, but each one performed some sort of Great Work before their power was too great for them to stay on Aiti. Peole began to worship these Great Mages, asking them for power, or help, or guidance. Occasionally, they would even respond. No one is certain where they went, but it is said that some of them occasionally come back to Aiti to check on things. 
+Aiti, however, grew lonely, and a little bit bored. She was unable to communicate directly with any mortal, and having only The Life to talk to could grow uninteresting, especially if The Life was busy with mortal affairs. So she began to choose random mortals, and give them direct connections to her power. They gained the ability to talk to her, and to wield god-like powers, nearly as powerful as The Life. These mortals were few and far between, but each one performed some sort of Great Work before their power was too great for them to stay on Aiti. People began to worship these Great Mages, asking them for power, or help, or guidance. Occasionally, they would even respond. No one is certain where they went, but it is said that some of them occasionally come back to Aiti to check on things. 
