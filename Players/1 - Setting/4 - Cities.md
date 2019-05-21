@@ -1,15 +1,16 @@
 # Cities of Aiti
 
-The main continent of Aiti is roughly similar to the continent of Eurasia on earth, if you absolutely must think of it that way. There are four main cities, each defining a Land, roughly akin to a country.
+The main continent of Aiti, called Sydän, is easily the largest. It is home to Canopy, the place where The Life called home. The continent is dominated by four great Lands, roughly akin to city-states or kingdoms. Until recently, they lived in harmony, but tensions have been rising since the loss of their divine mediator. 
 
 ## Delta, Land of the Water
 
-- In the west
-- Names pulled roughly from celtic languages
-- Should be vaguely reminiscent of england and western europe
-- Ruled by the Depressed Queen
-- A visual combination between Venice waterways and New Orleans bayous, is a major port city, majority of travel within the city is by boat or ferry
-- Inhabitants are calm and peaceful, going with the flow like the movement of their surrounding rivers, streams, and waterways
+The Land of the Water is the westernmost area of Sydän, an area full of lakes, rivers, swamps, and marshland. Delta is the capital city, named for the river delta on which it sits. Sprawls might be a better term, as the city is rather large, with plenty of extra space for boats. Many canals crisscross the city, allowing for easy travel by small boat, or by foot on the many bridges. Even when the Portal of Portals was working, people chose mainly to use the canals and walkways, or even occasionally swim. 
+
+The city is informally divided into sections or districts, marked mostly by the differing architectures within each area. The Royal District, which is located furthest east, sits mostly atop a hill, and is marked by a series of interconnected buildings made of stone, dominated by the large castle-like structure in the center. Many of the districts closer to the water are marked by rows of colorful homes, usually with large, open windows. Some districts have smaller, compressed rows of apartments, but even these have plenty of windows to let the sea air in. 
+
+Easily the largest part of the city, however, is the harbor. There are hundreds of boats coming and going at any moment, with constant work happening on the shore and docks. Trade is the city's main source of income, even considering the Portal of Portals. Now that travel and transport has to happen by more mundane means, the city is thriving. Most of the inhabitants are taking this in stride, as they're used to staying calm with the rapid changes of the sea and weather. There's even a burgeoning enclave of storm sorcerers, who have found their powers extremely helpful when it comes to seafaring. 
+
+The area surrounding delta is mainly farmland, occasionally dotted with a village. Most travel is done by boat on the rivers, but there's a fairly comprehensive system of roads for those less aquatically inclined. 
 
 ## Canopy, Land of the Forest
 
@@ -18,7 +19,7 @@ The main continent of Aiti is roughly similar to the continent of Eurasia on ear
 - Combination of extensive meadows and glens, and a lush valley where the Greatmother Tree is centered
 - Inhabitants are jovial, dressed in attire similar to faeries, and are very protective of life and each other
 
-Canopy is less a city in the traditional sense and more of a set of villages in close proximity that decided to work together for the common good. It is dominated by the Greatmother Tree, which since the death of The Life has become a sort of *de facto* city hall and place of government. 
+Deep within the heart of the Mother Forest, Canopy is less a city in the traditional sense and more of a set of villages in close proximity that decided to work together for the common good. It is dominated by the Greatmother Tree, which since the death of The Life has become a sort of *de facto* city hall and place of government. 
 
 Several enclaves of druids call Canopy and the surrounding areas their home, and the largest remaining enclave of the Children of Life make their home next to the Greatmother Tree. When The Life was alive and the Portal of Portals still operational, the tree glowed with the constant magic running through it, but now it almost seems to wilt. 
 

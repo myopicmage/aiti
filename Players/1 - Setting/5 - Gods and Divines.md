@@ -77,3 +77,11 @@ Since the death of The Life, Vyr has been spotted fairly frequently in the bough
 **Great Work**: Created the school of abjuration magic. 
 
 Old folk tales say that she visits the forests every autumn to thank the trees for a job well done and turns the leaves beautiful as a reward. People drink cider to worship her, and stuff lavender and amethyst in their pockets to curry her favour when they want the stamina to get things done without tiring out. She's usually depicted as a pale woman with very long, silver hair. Her eyes are always closed,a nd she has a serene look on her face. 
+
+## Seòladair, the Navigator
+
+**Alignment**: Chaotic Neutral
+
+**Domain**: Tempest
+
+**Great Work**: Created maps of the world, especially maps of how to navigate the oceans of Aiti, and enchanted them to stay up to date with the shifting currents and land masses. Also created the Taigh-Solais, a massive, magical beacon that seafarers can look for to find their way back to Delta. 
