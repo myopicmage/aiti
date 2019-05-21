@@ -67,3 +67,13 @@ Since the death of The Life, Vyr has been spotted fairly frequently in the bough
 **Domain**: Light
 
 **Great Work**: Created the sun and the day/night cycle. Oldest of the Great Mages.
+
+## Nithara, the Diligent
+
+**Alignment**: True Neutral
+
+**Domain**: Work and Diligence
+
+**Great Work**: Created the school of abjuration magic. 
+
+Old folk tales say that she visits the forests every autumn to thank the trees for a job well done and turns the leaves beautiful as a reward. People drink cider to worship her, and stuff lavender and amethyst in their pockets to curry her favour when they want the stamina to get things done without tiring out. She's usually depicted as a pale woman with very long, silver hair. Her eyes are always closed,a nd she has a serene look on her face. 
