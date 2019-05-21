@@ -12,6 +12,8 @@ Easily the largest part of the city, however, is the harbor. There are hundreds 
 
 The area surrounding delta is mainly farmland, occasionally dotted with a village. Most travel is done by boat on the rivers, but there's a fairly comprehensive system of roads for those less aquatically inclined. 
 
+Officially, the city's patron mage is Seònaid, but many also choose to pray to Nithara due to Nithara's more predictable nature. 
+
 ## Canopy, Land of the Forest
 
 - In the north

@@ -85,3 +85,5 @@ Old folk tales say that she visits the forests every autumn to thank the trees f
 **Domain**: Tempest
 
 **Great Work**: Created maps of the world, especially maps of how to navigate the oceans of Aiti, and enchanted them to stay up to date with the shifting currents and land masses. Also created the Taigh-Solais, a massive, magical beacon that seafarers can look for to find their way back to Delta. 
+
+**Pronounced**: "shau-nid"
