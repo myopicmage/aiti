@@ -44,7 +44,7 @@ Since the death of The Life, Vyr has been spotted fairly frequently in the bough
 
 **Great Work**: Created the concept of fear and shared it with the world of Aiti, just because she could.
 
-## Frances. the Death Guide
+## Frances, the Death Guide
 
 **Alignment**: Lawful Neutral
 
