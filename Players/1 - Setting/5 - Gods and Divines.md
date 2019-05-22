@@ -14,7 +14,7 @@ Since Aiti is too powerful, The Life is dead, and The Land is lost, clerics and 
 
 **Domain**: Nature
 
-**Great Work**: Created The Mother Forest, a huge, evergreen forest, resilient to almost every form of damage, taking up most of the central continent.
+**Great Work**: Created The Mother Forest, a huge, evergreen forest, resilient to almost every form of damage, taking up most of the Sydän.
 
 ## Vyr, the Woodwaker
 
@@ -87,3 +87,19 @@ Old folk tales say that she visits the forests every autumn to thank the trees f
 **Great Work**: Created maps of the world, especially maps of how to navigate the oceans of Aiti, and enchanted them to stay up to date with the shifting currents and land masses. Also created the Taigh-Solais, a massive, magical beacon that seafarers can look for to find their way back to Delta. 
 
 **Pronounced**: "shau-nid"
+
+## Iòna, Father of the Undead
+
+**Alignment**: Neutral Evil
+
+**Domain**: War
+
+**Great Work**: Created the school of necromancy in an attempt to raise an undead army. Iòna was from a small village in the Land of the Water, and always suffered from an inferiority complex. When he raised his army of the undead, Frances herself returned from her realm, restored the undead to their state of rest, and dragged Iòna away.
+
+## Valehdella, the "Sincere"
+
+**Alignment**: Lawful Evil
+
+**Domain**: Trickery
+
+**Great Work**: Agreed to a poorly worded deal with one of the druid circles of Canopy to create a system of magical roads through the Mother Forest that would remain navigable no matter what. The druids, however, realizing his intentions to exploit these new roads for his own gain, put a clause in the deal where he'd have to leave Aiti once he finished his work.
