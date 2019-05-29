@@ -16,12 +16,9 @@ Officially, the city's patron mage is Seònaid, but many also choose to pray to 
 
 ## Canopy, Land of the Forest
 
-- In the north
-- Domain of The Life
-- Combination of extensive meadows and glens, and a lush valley where the Greatmother Tree is centered
-- Inhabitants are jovial, dressed in attire similar to faeries, and are very protective of life and each other
+In the north of the continent of Sydän lies the Mother Forest, a huge, untamed wild full of giant trees, lush valleys, and verdant meadows. The Mother Forest was grown by P'Thael as their Great Work, and it is a safe haven for all those who would call nature their home or companion. It is home to many druids, some clerics, and is the place The Life calls home. The Mother Forest itself is alive, and almost conscious, and will rearrange itself as it sees fit, though sometimes Vyr or a mischievous fey will convince it to do so.
 
-Deep within the heart of the Mother Forest, Canopy is less a city in the traditional sense and more of a set of villages in close proximity that decided to work together for the common good. It is dominated by the Greatmother Tree, which since the death of The Life has become a sort of *de facto* city hall and place of government. 
+Deep within the heart of the Mother Forest, sometimes at the center, sometimes not, Canopy is less a city in the traditional sense and more of a set of villages in close proximity that decided to work together for the common good. It is dominated by the Greatmother Tree, which since the death of The Life has become a sort of *de facto* city hall and place of government. 
 
 Several enclaves of druids call Canopy and the surrounding areas their home, and the largest remaining enclave of the Children of Life make their home next to the Greatmother Tree. When The Life was alive and the Portal of Portals still operational, the tree glowed with the constant magic running through it, but now it almost seems to wilt. 
 
