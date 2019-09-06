@@ -24,13 +24,13 @@ Unbeknownst to you, the Gate has calmed in a manner exactly the same as Chaos Co
 | -                          | -      |
 | Request information        | The Gate will answer any question posed to it, though the accuracy of the information cannot be verified. The answer to the question should be determined by the DM. Do not ask any questions you do not wish to know the answer to. |
 | Request a non-magical item | Nothing in the world is without cost, and it is likely that anything you request will come with a bill to pay, should you even receive the item you desired. |
-| Request a magical item     | Who are you to demand an item of Piileva, that infinite void of possibility? Where is Piileva even going to get a magical item? Surely from _somewhere_. |
+| Request a magical item     | Who are you to demand an item of Piileva, that infinite void of possibility? Where is Piileva even going to get a magical item? Surely from _somewhere_. Roll with disadvantage on Table C. |
 
 ## Tables
 
 ### A - Approach
 
-| Roll | Effect |
+| d20  | Effect |
 | -    | -      |
 | 1    | Chaos Consume |
 | 2    | Roll on table B |
@@ -39,3 +39,16 @@ Unbeknownst to you, the Gate has calmed in a manner exactly the same as Chaos Co
 | 17   | Spawn - a very confused weapon merchant |
 | 19   | Spawn - a very confused armor merchant |
 | 20   | Chaos Control |
+
+### B - Creature Spawns
+
+### C - Chaos
+
+| d10   | Effect |
+| -     | -      |
+| 1     | Your request backfires horribly. Take 1d10 times your highest level force damage and roll on Table B. |
+| 2 - 3 | You wanted _what now_? Absolutely not. Take 1d8 times your highest level force damage. The gate vanishes. | 
+| 4 - 5 | At your DM's discretion, you got what you wanted... at a price. The Gate vanishes. |
+| 6 - 7 | While not a failure, this is hardly considered a success. The Gate does... something vaguely like what you asked for. If you asked for a magic item, it probably gave you a useless one. If you asked for a favour, it did it poorly. However, that's all it did. The Gate vanishes. | 
+| 8 - 9 | 
+| 10    | You get exactly what you wanted, no catches whatsoever. The gate vanishes. |
