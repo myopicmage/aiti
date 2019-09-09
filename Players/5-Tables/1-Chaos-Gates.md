@@ -1,0 +1,54 @@
+# Chaos Gates
+
+## Rules
+
+When approaching the Chaos Gate, roll 1d20 on Table A and follow the instructions. This roll should be **secret**, known only to **you and your DM**.
+
+### Chaos Control
+
+The Chaos Gate, through an incredible stroke of good fortune, will respond to your Command. It appears completely calm and placid, though you still know it is there or can sense its presence. Choose from one of the following options:
+
+| Option | Effect |
+| -      | -      |
+| Request information        | The Gate will answer a single question truthfully, though since gates cannot speak, it will manifest some way of answering. This is guaranteed to be Completely True and Accurate, though the manner of answer will be up to your DM. |
+| Request a non-magic item | At your DM's discretion, you may request an item of your choice. The Gate will then manifest it. |
+| Request a magic item       | Somehow, from somewhere, the Chaos Gate attempts to manifest a magical item of your choosing. At your DM's discretion, roll on Table C. | 
+| Request a favour           | Favours, such as "please send me to Skymeet" or "make it so that I have recently taken a long rest" should be considered carefully, as Piileva may deliver. Roll on Table C (at your DM's discretion) for the outcome. |
+| Hyper-sonic                | If you think I could make it this far without making this reference, you are **sorely** mistaken. Double your movement speed until your next long rest. Whether or not you turn gold is up to you. | 
+
+### Chaos Consume
+
+Unbeknownst to you, the Gate has calmed in a manner exactly the same as Chaos Control. Choose from one of the following options, though beware the consequences. 
+
+| Option                     | Effect |
+| -                          | -      |
+| Request information        | The Gate will answer any question posed to it, though the accuracy of the information cannot be verified. The answer to the question should be determined by the DM. Do not ask any questions you do not wish to know the answer to. |
+| Request a non-magical item | Nothing in the world is without cost, and it is likely that anything you request will come with a bill to pay, should you even receive the item you desired. |
+| Request a magical item     | Who are you to demand an item of Piileva, that infinite void of possibility? Where is Piileva even going to get a magical item? Surely from _somewhere_. Roll with disadvantage on Table C. |
+
+## Tables
+
+### A - Approach
+
+| d20  | Effect |
+| -    | -      |
+| 1    | Chaos Consume |
+| 2    | Roll on table B |
+| 5    | Spawn - a very confused general merchant |
+| 10   | Spawn - a single taco |
+| 17   | Spawn - a very confused weapon merchant |
+| 19   | Spawn - a very confused armor merchant |
+| 20   | Chaos Control |
+
+### B - Creature Spawns
+
+### C - Chaos
+
+| d10   | Effect |
+| -     | -      |
+| 1     | Your request backfires horribly. Take 1d10 times your highest level force damage and roll on Table B. |
+| 2 - 3 | You wanted _what now_? Absolutely not. Take 1d8 times your highest level force damage. The gate vanishes. | 
+| 4 - 5 | At your DM's discretion, you got what you wanted... at a price. The Gate vanishes. |
+| 6 - 7 | While not a failure, this is hardly considered a success. The Gate does... something vaguely like what you asked for. If you asked for a magic item, it probably gave you a useless one. If you asked for a favour, it did it poorly. However, that's all it did. The Gate vanishes. | 
+| 8 - 9 | 
+| 10    | You get exactly what you wanted, no catches whatsoever. The gate vanishes. |

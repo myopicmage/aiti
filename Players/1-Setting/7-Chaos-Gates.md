@@ -1,0 +1,13 @@
+# Chaos Gates
+
+One of The Life's functions was to help Aiti ground herself in the reality she had created. After The Life's death, Aiti's ability to maintain all of her reality began to slip, creating small breaks or tears where Piileva can spill through. The people took to calling these Chaos Gates. 
+
+## Form
+
+A Chaos Gate can form anywhere, though they are most likely to be found far away from people and populations, since they help to keep the world in check. There are many reports of Gates forming far out into the grasslands of the Land of the Sun, or deep in the mountains of the Land of the Sky. Some have reported Gates forming on the surface of the sea. 
+
+Chaos Gates do not usually have a visible form. Instead, they can typically be seen as a warping or twisting of the world. Some say they can sense them as a feeling of **wrongness** in an area. Many claim that sound begins to fail in strange ways in the presence of a Gate. All of these features increase in strength and magnitude the closer one gets to the Gate. 
+
+## Effect
+
+Approaching a Gate can have many effects. The people of Aiti radiate an aura of Aiti's reality, and will thus unknowingly fight the presence of a Gate. Weak or mild tears will simply vanish when someone gets close, but a particularly bad tear will usually get worse and allow Piileva to spill through. This takes many forms, since Piileva is inherently Unrealized. 
