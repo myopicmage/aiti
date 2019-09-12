@@ -4,11 +4,13 @@ import { create } from '@storybook/theming';
 addParameters({
   options: {
     theme: create({
-      base: 'dark',
+      base: 'light',
       brandTitle: 'Aiti'
     })
   }
 });
+
+import 'bootstrap/dist/css/bootstrap.css';
 
 // automatically import all files ending in *.stories.js
 configure([

@@ -1,17 +1,31 @@
-import { Meta } from '@storybook/addon-docs/blocks';
+import { Meta, Story } from "@storybook/addon-docs/blocks";
+import { SpellBlock } from "../../src/SpellBlock";
 
-<Meta title="Spells/Valehdella\'s Lie of Love" />
+<Meta title="Spells|Bard" />
 
-# Valehdella's Lie of Love
-
-5th Level Enchantment 
-
-- Casting Time: 1 action
-- Range: 60 feet
-- Components: V S M (A flower meant for a lover)
-- Duration: Concentration, up to 1 hour
-- Classes: Bard, Warlock
-
-A creature of your choice that you share a lane within range that shares a language with you. They must succeed on a Charisma saving throw or fall helplessly in love with you for the duration of the spell. The creature becomes your ally, and will obey commands you give them so long as you say them as a lover would. They will fiercely protect you should you come under attack by anyone. They will also become jealous if you do not speak to them at least once every ten minutes.
-
-The spell ends after the duration is over, or if you damage the creature. Once the spell is over, the creature becomes hostile, and knows that it has been enchanted.
+<Story name="Valehdella\'s Lie of Love">
+  <SpellBlock
+    name="Valehdella's Lie of Love"
+    level={5}
+    spellType="Enchantment"
+    castingTime="1 action"
+    voice
+    somatic
+    material
+    materialDescription="A flower meant for a lover"
+    classes={["bard", "warlock"]}
+    concentration
+    duration="Up to 1 hour"
+    range="60 feet"
+  >
+    A creature of your choice that you share a lane within range that shares a
+    language with you. They must succeed on a Charisma saving throw or fall
+    helplessly in love with you for the duration of the spell. The creature
+    becomes your ally, and will obey commands you give them so long as you say
+    them as a lover would. They will fiercely protect you should you come under
+    attack by anyone. They will also become jealous if you do not speak to them
+    at least once every ten minutes. The spell ends after the duration is over,
+    or if you damage the creature. Once the spell is over, the creature becomes
+    hostile, and knows that it has been enchanted.
+  </SpellBlock>
+</Story>
