@@ -6,17 +6,21 @@
   "author": "Kevin Bernfeld <kcbernfeld@gmail.com>",
   "license": "MIT",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@storybook/addon-actions": "^5.2.0-rc.11",
+    "@storybook/addon-docs": "^5.2.0-rc.11",
     "@storybook/addon-links": "^5.2.0-rc.11",
     "@storybook/addons": "^5.2.0-rc.11",
     "@storybook/react": "^5.2.0-rc.11",
     "babel-loader": "^8.0.6"
   },
   "scripts": {
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "start": "start-storybook -p 6006",
+    "build": "build-storybook --docs"
   }
 }
