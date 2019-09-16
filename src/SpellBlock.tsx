@@ -11,7 +11,7 @@ export type SpellBlockProps = {
   somatic?: boolean;
   material?: boolean;
   materialDescription?: string;
-  classes: PCClass[];
+  classes: PCClass[] | [ 'all' ];
   concentration?: boolean;
   duration: string;
   range: number;

@@ -1,0 +1,44 @@
+import { Meta, Story } from '@storybook/addon-docs/blocks';
+import { SpellBlock } from '../../src/SpellBlock';
+
+<Meta title="Spells|1st Level" />
+
+<Story name="Hamish\'s Driving Wind">
+  <SpellBlock
+    name="Hamish's Driving Wind"
+    level={1}
+    spellType="Evocation"
+    castingTime="1 action"
+    voice
+    somatic
+    classes={[ 'all' ]}
+    concentration
+    duration="Instantaneous, or up to 12 hours"
+    ritual
+    range="30 feet, in a 5 foot wide line in front of you"
+  >
+    <p>
+      <b>Please note, this spell must be trained. It cannot be taken on level up.</b>
+    </p>
+    <p>
+      You beg the elements to come to your aid, summoning either a sustained wind
+      or a powerful gust in a line in front of you. Though this spell is meant to drive 
+      personal glider carriages, it can be focused into a powerful blast of air. 
+    </p>
+    <p>
+      When cast as a regular spell, this spell summons a powerful blast of wind, focused
+      in a line in front of you. Targets must make a dexterity saving throw. On a 
+      failed save, they take 1d6 bludgeoning damage and are knocked prone. On a successful
+      save, they take half as much damage and are not knocked prone.
+    </p>
+    <p>
+      When cast as a ritual, this spell summons a continuous stream of wind for up
+      to 12 hours that you can use to power a personal glider that carries up to 
+      4 passengers (not including you).
+    </p>
+    <p>
+      <b>At higher levels</b>: This spell increases in damage by 1d6 for each level
+      above first.
+    </p>
+  </SpellBlock>
+</Story>
