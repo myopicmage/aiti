@@ -2,3 +2,4 @@ node_modules
 **/*.log
 storybook-static/
 build/
+.DS_STORE
